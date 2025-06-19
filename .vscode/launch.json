@@ -1,0 +1,83 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Projeto1",
+            "request": "launch",
+            "mainClass": "projeto.Projeto1",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "java",
+            "name": "Projeto",
+            "request": "launch",
+            "mainClass": "Projeto",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "java",
+            "name": "saudacao",
+            "request": "launch",
+            "mainClass": "saudacao",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "java",
+            "name": "SistemaEscolar",
+            "request": "launch",
+            "mainClass": "SistemaEscolar",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "java",
+            "name": "Projeto",
+            "request": "launch",
+            "mainClass": "projeto.Projeto",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "java",
+            "name": "SistemaEscolar",
+            "request": "launch",
+            "mainClass": "projeto.SistemaEscolar",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "java",
+            "name": "projeto",
+            "request": "launch",
+            "mainClass": "projeto.projeto",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "java",
+            "name": "soma",
+            "request": "launch",
+            "mainClass": "soma",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "java",
+            "name": "curriculo",
+            "request": "launch",
+            "mainClass": "curriculo",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "java",
+            "name": "area",
+            "request": "launch",
+            "mainClass": "area",
+            "projectName": "JAVA_bf0bcd63"
+        },
+        {
+            "type": "jdk",
+            "request": "launch",
+            "name": "Launch Java App"
+        }
+    ]
+}
